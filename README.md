@@ -1,6 +1,8 @@
 <div align="center" style="
-  background-image: url("https://raw.githubusercontent.com/binbingus/binbingus/main/descarga.jpg"); 
-  padding: 2rem 1rem; 
+  background-image: url('https://raw.githubusercontent.com/binbingus/binbingus/main/descarga.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   border-radius: 12px; 
   color: #4B0082;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
