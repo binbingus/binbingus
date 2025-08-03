@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/chatgpt-assets/pastel-purple-banner-olga.png" alt="Olga Alonso Grela Banner" width="800" style="border-radius: 12px;" />
-</p>
-<h1 align="center" style="color:#7e57c2; margin-top: 1rem;">Olga Alonso Grela</h1>
-<p align="center" style="color:#9575cd; font-style: italic;">
-  Software Engineering Student
-</p>
+<div align="center" style="
+  background: #D8BFD8; 
+  padding: 2rem 1rem; 
+  border-radius: 12px; 
+  color: #4B0082;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  ">
+  
+  <h1 style="margin: 0;">Olga Alonso Grela</h1>
+  <p style="margin-top: 0.3rem; font-style: italic; color: #6A5ACD;">Software Engineering Student</p>
+</div>
 
 ---
 
