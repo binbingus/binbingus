@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/binbigus/binbingus/main/descarga.jpg" alt="Pastel Purple Banner" width="800" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/binbingus/binbingus/main/descarga.jpg" alt="Pastel Purple Banner" width="800" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center" style="color:#7e57c2; margin-top: 1rem;">Olga Alonso Grela</h1>
