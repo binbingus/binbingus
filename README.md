@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size: 0.75rem; margin-top: 0;">
-  Reach me at <a href="mailto:olgaagrela1313@gmail.com">✉ olgaagrela1313@gmail.com</a>
+  Reach me at <a href="mailto:olgaagrela1313@gmail.com">✉</a> olgaagrela1313@gmail.com
 </p>
 
 <p align="center">
