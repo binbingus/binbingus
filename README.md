@@ -1,5 +1,5 @@
 <div align="center" style="
-  background: ulr("https://raw.githubusercontent.com/binbingus/binbingus/main/descarga.jpg"); 
+  background-image: url("https://raw.githubusercontent.com/binbingus/binbingus/main/descarga.jpg"); 
   padding: 2rem 1rem; 
   border-radius: 12px; 
   color: #4B0082;
