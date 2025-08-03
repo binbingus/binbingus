@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/binbingus/binbingus/main/Olga Alonso Grela.png" alt="Banner" width="800" style="border-radius: 12px;" />
 </p>
+
 <p align="center" style="font-size: 0.75rem; margin-top: 0;">
-  Reach me at <a href="mailto:olgaagrela1313@gmail.com" style="color: inherit; text-decoration: none;">olgaagrela1313@gmail.com</a>
+  Reach me at <a href="mailto:olgaagrela1313@gmail.com">✉ olgaagrela1313@gmail.com</a>
 </p>
----
 
 <p align="center">
   <a href="https://binbingus.github.io/portfolio" target="_blank" rel="noopener">
